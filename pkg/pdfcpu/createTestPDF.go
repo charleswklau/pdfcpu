@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/mysilkway/pdfcpu/pkg/filter"
+	"github.com/charleswklau/pdfcpu/pkg/filter"
 )
 
 var testAudioFileWAV = filepath.Join("testdata", "resources", "test.wav")

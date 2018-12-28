@@ -24,10 +24,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mysilkway/pdfcpu/pkg/filter"
-	"github.com/mysilkway/pdfcpu/pkg/fonts/metrics"
-	"github.com/mysilkway/pdfcpu/pkg/log"
-	"github.com/mysilkway/pdfcpu/pkg/types"
+	"github.com/charleswklau/pdfcpu/pkg/filter"
+	"github.com/charleswklau/pdfcpu/pkg/fonts/metrics"
+	"github.com/charleswklau/pdfcpu/pkg/log"
+	"github.com/charleswklau/pdfcpu/pkg/types"
 
 	"github.com/pkg/errors"
 )

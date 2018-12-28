@@ -19,8 +19,8 @@ package pdfcpu
 import (
 	"fmt"
 
-	"github.com/mysilkway/pdfcpu/pkg/filter"
-	"github.com/mysilkway/pdfcpu/pkg/log"
+	"github.com/charleswklau/pdfcpu/pkg/filter"
+	"github.com/charleswklau/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

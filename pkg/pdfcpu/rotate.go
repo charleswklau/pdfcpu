@@ -16,7 +16,7 @@ limitations under the License.
 
 package pdfcpu
 
-import "github.com/mysilkway/pdfcpu/pkg/log"
+import "github.com/charleswklau/pdfcpu/pkg/log"
 
 func rotatePage(xRefTable *XRefTable, i, rotation int) error {
 

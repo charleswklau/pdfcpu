@@ -19,7 +19,7 @@ package validate
 import (
 	"net/url"
 
-	pdf "github.com/mysilkway/pdfcpu/pkg/pdfcpu"
+	pdf "github.com/charleswklau/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 
