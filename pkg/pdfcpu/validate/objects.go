@@ -19,8 +19,8 @@ package validate
 import (
 	"fmt"
 
-	"github.com/charleswklau/pdfcpu/pkg/log"
-	pdf "github.com/charleswklau/pdfcpu/pkg/pdfcpu"
+	"github.com/mysilkway/pdfcpu/pkg/log"
+	pdf "github.com/mysilkway/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 

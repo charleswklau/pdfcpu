@@ -25,8 +25,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/charleswklau/pdfcpu/pkg/filter"
-	"github.com/charleswklau/pdfcpu/tiff"
+	"github.com/mysilkway/pdfcpu/pkg/filter"
+	"github.com/mysilkway/pdfcpu/tiff"
 	"github.com/pkg/errors"
 )
 

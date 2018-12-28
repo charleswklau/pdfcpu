@@ -16,7 +16,7 @@ limitations under the License.
 
 package pdfcpu
 
-import "github.com/charleswklau/pdfcpu/pkg/log"
+import "github.com/mysilkway/pdfcpu/pkg/log"
 
 // The PDF root object fields.
 const (
