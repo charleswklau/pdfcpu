@@ -19,7 +19,7 @@ package pdfcpu
 import (
 	"fmt"
 
-	"github.com/charleswklau/pdfcpu/pkg/log"
+	"github.com/mysilkway/pdfcpu/pkg/log"
 	"github.com/pkg/errors"
 )
 

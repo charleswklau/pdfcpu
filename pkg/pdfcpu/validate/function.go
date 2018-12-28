@@ -17,7 +17,7 @@ limitations under the License.
 package validate
 
 import (
-	pdf "github.com/charleswklau/pdfcpu/pkg/pdfcpu"
+	pdf "github.com/mysilkway/pdfcpu/pkg/pdfcpu"
 	"github.com/pkg/errors"
 )
 
